@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Status Saver Pro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="repost">Repost</string>
+    <string name="no_media_found">No Media Found</string>
+    <string name="textview">TextView</string>
+    <!-- In res/values/strings.xml -->
+    <string name="disclaimer_message">This Status Saver App is not affiliated with any social media app. It\'s just a tool for downloading videos and photo stories. The app is not responsible for any re-usage of the media posted by the users </string>
+
+</resources>
